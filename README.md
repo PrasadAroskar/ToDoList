@@ -7,3 +7,7 @@
 2. CSS
 3. JQuery 
 
+# Steps to run:
+1. Clone the repo
+2. Run the index.html in any browser
+
